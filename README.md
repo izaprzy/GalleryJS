@@ -1,1 +1,1 @@
-Photo gallery in JS 
+Photo gallery in JS --> https://izaprzy.github.io/GalleryJS/
